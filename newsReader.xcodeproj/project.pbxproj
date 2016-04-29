@@ -531,7 +531,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				GCC_PREFIX_HEADER = "/Users/computer/Desktop/programe/newsReader/newsReader/NewsAPP-Prefix.pch";
+				GCC_PREFIX_HEADER = "/Users/computer/Desktop/programe/code/NewsApp/newsReader/NewsAPP-Prefix.pch";
 				INFOPLIST_FILE = newsReader/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.whuf.newsReader;
@@ -543,7 +543,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				GCC_PREFIX_HEADER = "/Users/computer/Desktop/programe/newsReader/newsReader/NewsAPP-Prefix.pch";
+				GCC_PREFIX_HEADER = "/Users/computer/Desktop/programe/code/NewsApp/newsReader/NewsAPP-Prefix.pch";
 				INFOPLIST_FILE = newsReader/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.whuf.newsReader;
@@ -618,6 +618,7 @@
 				9A0124E51CD37452001CF9E4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9A0124E61CD37452001CF9E4 /* Build configuration list for PBXNativeTarget "newsReaderTests" */ = {
 			isa = XCConfigurationList;
@@ -626,6 +627,7 @@
 				9A0124E81CD37452001CF9E4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9A0124E91CD37452001CF9E4 /* Build configuration list for PBXNativeTarget "newsReaderUITests" */ = {
 			isa = XCConfigurationList;
@@ -634,6 +636,7 @@
 				9A0124EB1CD37452001CF9E4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
